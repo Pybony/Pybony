@@ -33,6 +33,6 @@
 ***
 *Certificações:*
 
-|AWS Partner: Accreditation (Business)|Oracle Certified Associate, Java SE 8 Programmer|
+|Oracle Certified Associate: Java SE 8 Programmer|AWS Partner: Accreditation (Business)|
 |:----:|:----:|
-|<img align="center" title="AWS Partner: Accreditation (Business)" alt="AWS Partner: Accreditation (Business)" height="150" width="150"          src="https://images.credly.com/size/340x340/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png">|<img align="center" title="AWS Partner: Accreditation (Business)" alt="AWS Partner: Accreditation (Business)" height="150" width="150"          src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png">|
+|<img align="center" title="Oracle Certified Associate: Java SE 8 Programmer" alt="Oracle Certified Associate: Java SE 8 Programmer" height="150" width="150"          src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png">|<img align="center" title="AWS Partner: Accreditation (Business)" alt="AWS Partner: Accreditation (Business)" height="150" width="150" src="https://images.credly.com/size/340x340/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png">|
