@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando React
-- 💬 Sou do Rio Grande do Sul, gosto de assistir séries e praticar esportes
+- 💬 Gosto de assistir séries e praticar esportes
 
 <div>
   <a href="https://github.com/Pybony">
