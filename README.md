@@ -4,13 +4,15 @@
 - 🌱 Estudando React
 - 💬 Gosto de assistir séries e praticar esportes
 
+***
+
 <div>
   <a href="https://github.com/Pybony">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pybony&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pybony&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
-<div style="display: inline_block"><br>
+<div style="display:inline_block"><br>
   <img align="center" title="Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" title="Spring Boot" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -26,3 +28,11 @@
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" title="CSS3" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
+</a>
+
+***
+*Certificações:*
+
+|AWS Partner: Accreditation (Business)|Oracle Certified Associate, Java SE 8 Programmer|
+|:----:|:----:|
+|<img align="center" title="AWS Partner: Accreditation (Business)" alt="AWS Partner: Accreditation (Business)" height="150" width="150"          src="https://images.credly.com/size/340x340/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png">|<img align="center" title="AWS Partner: Accreditation (Business)" alt="AWS Partner: Accreditation (Business)" height="150" width="150"          src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png">|
