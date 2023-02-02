@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lucas Maciel Schneider
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho com Java/Spring Backend
 - 🌱 Estudando React
 - 💬 Gosto de assistir séries e praticar esportes
 
